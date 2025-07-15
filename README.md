@@ -4,9 +4,12 @@
 https://pan.baidu.com/s/1NwJ9Xpk8wdCBxLDAInCzDw 提取码: jaz8
 
 ## 结构
---C++ prime plus
+C++ prime plus
+    
     --bookcodes        #章节代码
+    
     --booknotes        #章节笔记
+    
     --practice         #练习题
 
 ## 第一部分C++基础
